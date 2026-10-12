@@ -1,9 +1,7 @@
 ## Hey there! <img width="30" height="30" alt="30" src="https://github.com/user-attachments/assets/a5c938a3-01a6-4117-828c-6fd3ceb8db0b" />
 
 
-I'm a financical analyst based in London.  
-
-Exploring the intersection of finance and technology. Building projects in Python, SQL.
+Exploring the intersection of finance and technology. Building projects in JavaScript, Python and SQL.
 
 Currently working on a Financial Analysis & Automation project. 
 
