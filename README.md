@@ -1,12 +1,14 @@
 ## Hey there! <img width="30" height="30" alt="30" src="https://github.com/user-attachments/assets/a5c938a3-01a6-4117-828c-6fd3ceb8db0b" />
 
 
-I'm a financical analyst based in London.
+I'm a financical analyst based in London.  <img width="512" height="512" alt="512 (2)" src="https://github.com/user-attachments/assets/3712a928-794f-4ba3-ab07-a887d5b79074" />
+
 
 
 Exploring the intersection of finance and technology. Building projects in Python, SQL.
 
-Currently working on a Financial Analysis & Automation project. <img width="25" height="25" alt="0 (1)" src="https://github.com/user-attachments/assets/7f48589d-c17b-4c5b-a4a0-e13df85c817d" />
+Currently working on a Financial Analysis & Automation project. <img width="512" height="512" alt="512 (2)" src="https://github.com/user-attachments/assets/3712a928-794f-4ba3-ab07-a887d5b79074" />
+
 
 
 
