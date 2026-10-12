@@ -4,7 +4,7 @@ I'm a financical analyst based in London.
 
 Exploring the intersection of finance and technology. Building projects in Python, SQL.
 
-Currently working on Financial Analysis & Automation project
+Currently working on a Financial Analysis & Automation project
 
 
 <!--
