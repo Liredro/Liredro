@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Liana, a finance analyst based in London
 <!--
 **Liredro/Liredro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
