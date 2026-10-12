@@ -6,7 +6,7 @@ I'm a financical analyst based in London.
 
 Exploring the intersection of finance and technology. Building projects in Python, SQL.
 
-Currently working on a Financial Analysis & Automation project <img width="25" height="10" alt="25 (1)" src="https://github.com/user-attachments/assets/7f48589d-c17b-4c5b-a4a0-e13df85c817d" />
+Currently working on a Financial Analysis & Automation project <img width="25" height="25" alt="10 (1)" src="https://github.com/user-attachments/assets/7f48589d-c17b-4c5b-a4a0-e13df85c817d" />
 
 
 
