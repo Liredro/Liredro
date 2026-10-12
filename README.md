@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hey there 👋
 
-I'm Liana, a finance analyst based in London
+I'm Liana, a financical analyst based in London.
+
+Exploring the intersection of finance and technology. Building projects in Python, SQL.
+
+Currently working on Financial Analysis & Automation project
+
+
 <!--
 **Liredro/Liredro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
