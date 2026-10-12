@@ -1,4 +1,4 @@
-## Hey there <img width="512" height="512" alt="512" src="https://github.com/user-attachments/assets/a5c938a3-01a6-4117-828c-6fd3ceb8db0b" />
+## Hey there <img width="30" height="30" alt="30" src="https://github.com/user-attachments/assets/a5c938a3-01a6-4117-828c-6fd3ceb8db0b" />
 
 
 I'm a financical analyst based in London.
