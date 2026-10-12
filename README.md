@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Liana, a financical analyst based in London.
+I'm a financical analyst based in London.
 
 Exploring the intersection of finance and technology. Building projects in Python, SQL.
 
