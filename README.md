@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json
 
 I'm a financical analyst based in London.
 
